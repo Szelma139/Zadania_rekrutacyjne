@@ -13,3 +13,11 @@
 ### https://github.com/yangshun/front-end-interview-handbook/tree/master/questions
 
 ### [FRONT-END] https://github.com/h5bp/Front-end-Developer-Interview-Questions
+
+
+
+
+
+## [Finished]
+
+Szkola_Reacta-Pytania_rekrutacyjne.pdf
