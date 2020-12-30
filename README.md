@@ -16,6 +16,10 @@
 
 ### https://github.com/aershov24/full-stack-interview-questions#.NETCore
 
+### https://github.com/Khranovskiy/1001-Full-Stack-Interview-Questions-And-Answers
+
+### 
+
 
 #####  -------------------------------------------------------------------------------------------------------------------------------------------------------------
  
