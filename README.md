@@ -18,7 +18,7 @@
 
 ### https://github.com/Khranovskiy/1001-Full-Stack-Interview-Questions-And-Answers
 
-### 
+### https://github.com/aershov24/web-developer-interview-questions
 
 
 #####  -------------------------------------------------------------------------------------------------------------------------------------------------------------
